@@ -45,9 +45,9 @@ type();
 if (typeof particlesJS !== "undefined") {
   particlesJS("particles-js", {
     particles: {
-      number: { value: 80 },
+      number: { value: 70 },
       size: { value: 3 },
-      move: { speed: 2 },
+      move: { speed: 1 },
       line_linked: { enable: true }
     }
   });
