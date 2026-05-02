@@ -36,7 +36,7 @@ function type() {
   if (el && i < text.length) {
     el.innerHTML += text.charAt(i);
     i++;
-    setTimeout(type, 80);
+    setTimeout(type, 100);
   }
 }
 type();
