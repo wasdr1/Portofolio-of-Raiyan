@@ -45,7 +45,7 @@ Visit the live website: [https://wasdr1.github.io/An-actual-Website-by-Raiyan/](
 
 ---
 
-## Project StructureAn-actual-Website-by-Raiyan/
+## Project Structure
 
 
 An-actual-Website-by-Raiyan/
@@ -54,7 +54,7 @@ An-actual-Website-by-Raiyan/
 
 ├── about.html # About page
 
-├── style.css# Styles for all pages
+├── style.css # Styles for all pages
 
 ├── script.js # JavaScript functionality
 
@@ -95,7 +95,7 @@ An-actual-Website-by-Raiyan/
 
 ### **Libraries & Services**
 - **Particles.js** - Animated particle background
-- **Google Analytics** - Website tracking and analytics
+- **Analytics** - Website tracking and analytics
 - **JSDelivr CDN** - Content delivery network for libraries
 
 ### **SEO & Performance**
