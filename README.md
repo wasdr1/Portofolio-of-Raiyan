@@ -45,7 +45,7 @@ Visit the live website: [https://wasdr1.github.io/An-actual-Website-by-Raiyan/](
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 An-actual-Website-by-Raiyan/
 ├── index.html # Home page
 ├── about.html # About page
@@ -68,7 +68,7 @@ An-actual-Website-by-Raiyan/
 
 ---
 
-## 🛠️ Technologies Used
+## Code language Used
 
 ### **Frontend**
 - **HTML5** - Semantic markup
@@ -88,7 +88,7 @@ An-actual-Website-by-Raiyan/
 
 ---
 
-## 📄 Pages
+## Pages
 
 ### **Home Page (index.html)**
 - Hero section with typing animation
