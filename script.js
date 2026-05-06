@@ -10,7 +10,7 @@ window.addEventListener("load", () => {
     loader.style.opacity = "0";
     setTimeout(() => {
       loader.style.display = "none";
-    }, 50000000);
+    }, 50);
   }
 });
 
@@ -36,7 +36,7 @@ function type() {
   if (el && i < text.length) {
     el.innerHTML += text.charAt(i);
     i++;
-    setTimeout(type, 150);
+    setTimeout(type, 50);
   }
 }
 type();
