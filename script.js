@@ -65,7 +65,7 @@ const debouncedOnScroll = debounce(onScroll, 120);
 window.addEventListener("scroll", debouncedOnScroll);
 
 /* Typing effect (deferred start) */
-const text = "Hi, I'm Raiyan";
+const text = "Assalamualaikum, I'm Raiyan";
 let i = 0;
 
 function startTyping() {
